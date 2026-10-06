@@ -75,16 +75,3 @@ one, while the real `ParkingLot` buffer underneath continues to enforce
 capacity strictly via its lock and condition variables regardless of which
 visual slot a car cosmetically appears in.
 
-## What's still on you for submission
-
-This covers the **code** requirement. You still need to prepare, per the
-assignment brief:
-1. A slide presentation + presentation video walking through the design
-   and a live demo.
-2. An **AI Appendix** documenting which AI tools you used, how/when, which
-   prompts and snippets you accepted or rejected, and a reflection on what
-   the AI got wrong and what you learned/verified yourself. Since this code
-   was produced with Claude's help, be honest and specific in that
-   appendix — e.g. note anything you changed, tested, or disagreed with
-   after reviewing this code.
-3. Zip the code folder + slides + AI appendix together, named after you.
